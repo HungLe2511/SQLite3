@@ -1,0 +1,3 @@
+/home/hungpc/Documents/C++/SQLite/SQlitest/build/CMakeFiles/rebuild_cache.dir
+/home/hungpc/Documents/C++/SQLite/SQlitest/build/CMakeFiles/edit_cache.dir
+/home/hungpc/Documents/C++/SQLite/SQlitest/build/CMakeFiles/SQLitest.dir

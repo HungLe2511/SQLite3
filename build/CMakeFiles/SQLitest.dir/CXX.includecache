@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hungpc/Documents/C++/SQLite/SQlitest/DatabaseManager.cpp
+DatabaseManager.hpp
+/home/hungpc/Documents/C++/SQLite/SQlitest/DatabaseManager.hpp
+
+/home/hungpc/Documents/C++/SQLite/SQlitest/DatabaseManager.hpp
+iostream
+-
+sqlite3.h
+-
+string
+-
+stdio.h
+-
+stdlib.h
+-
+json.h
+/home/hungpc/Documents/C++/SQLite/SQlitest/json.h
+sstream
+-
+vector
+-
+typeinfo
+-
+
+/home/hungpc/Documents/C++/SQLite/SQlitest/json.h
+nlohmann/json.hpp
+-
+

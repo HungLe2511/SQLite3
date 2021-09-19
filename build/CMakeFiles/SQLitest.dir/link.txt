@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g  -no-pie -rdynamic CMakeFiles/SQLitest.dir/DatabaseManager.cpp.o CMakeFiles/SQLitest.dir/DatabaseManager_1.cpp.o CMakeFiles/SQLitest.dir/main.cpp.o  -o SQLitest  -lsqlite3 
